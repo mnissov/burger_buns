@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.eef07741.chunk.css",
-  "main.js": "/static/js/main.5f93752c.chunk.js",
-  "main.js.map": "/static/js/main.5f93752c.chunk.js.map",
-  "static/js/1.0de767c2.chunk.js": "/static/js/1.0de767c2.chunk.js",
-  "static/js/1.0de767c2.chunk.js.map": "/static/js/1.0de767c2.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/buns.jpg": "/static/media/buns.2a189d5f.jpg",
-  "static/media/calculator.svg": "/static/media/calculator.9065bca0.svg",
-  "static/css/main.eef07741.chunk.css.map": "/static/css/main.eef07741.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.869fd066239b391038bb53cfd210621b.js": "/precache-manifest.869fd066239b391038bb53cfd210621b.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/burger_buns/static/css/main.eef07741.chunk.css",
+  "main.js": "/burger_buns/static/js/main.bb32f538.chunk.js",
+  "main.js.map": "/burger_buns/static/js/main.bb32f538.chunk.js.map",
+  "static/js/1.0de767c2.chunk.js": "/burger_buns/static/js/1.0de767c2.chunk.js",
+  "static/js/1.0de767c2.chunk.js.map": "/burger_buns/static/js/1.0de767c2.chunk.js.map",
+  "runtime~main.js": "/burger_buns/static/js/runtime~main.24c5d45c.js",
+  "runtime~main.js.map": "/burger_buns/static/js/runtime~main.24c5d45c.js.map",
+  "static/media/buns.jpg": "/burger_buns/static/media/buns.2a189d5f.jpg",
+  "static/media/calculator.svg": "/burger_buns/static/media/calculator.9065bca0.svg",
+  "static/css/main.eef07741.chunk.css.map": "/burger_buns/static/css/main.eef07741.chunk.css.map",
+  "index.html": "/burger_buns/index.html",
+  "precache-manifest.193b1d2aa6ef9f2c5bf5f8ca0299e322.js": "/burger_buns/precache-manifest.193b1d2aa6ef9f2c5bf5f8ca0299e322.js",
+  "service-worker.js": "/burger_buns/service-worker.js"
 }
