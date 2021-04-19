@@ -4044,6 +4044,15 @@
     "jsonfile" "^4.0.0"
     "universalify" "^0.1.0"
 
+"fs-extra@^8.1.0":
+  "integrity" "sha512-yhlQgA6mnOJUKOsRUFsgJdQCvkKhcz8tlZG5HBQfReYZy46OwLcY+Zia0mtdHsOo9y/hP+CxMN0TU9QxoOtG4g=="
+  "resolved" "https://registry.npmjs.org/fs-extra/-/fs-extra-8.1.0.tgz"
+  "version" "8.1.0"
+  dependencies:
+    "graceful-fs" "^4.2.0"
+    "jsonfile" "^4.0.0"
+    "universalify" "^0.1.0"
+
 "fs-extra@7.0.0":
   "integrity" "sha512-EglNDLRpmaTWiD/qraZn6HREAEAHJcJOmxNEYwq6xeMKnVMAy3GUcFB+wXt2C6k4CNvB/mP1y/U3dzvKKj5OtQ=="
   "resolved" "https://registry.npmjs.org/fs-extra/-/fs-extra-7.0.0.tgz"
@@ -4112,19 +4121,17 @@
   dependencies:
     "assert-plus" "^1.0.0"
 
-"gh-pages@^2.0.1":
-  "integrity" "sha512-uFlk3bukljeiWKQ2XvPfjcSi/ou7IfoDf2p+Fj672saLAr8bnOdFVqI/JSgrSgInKpCg5BksxEwGUl++dbg8Dg=="
-  "resolved" "https://registry.npmjs.org/gh-pages/-/gh-pages-2.0.1.tgz"
-  "version" "2.0.1"
+"gh-pages@^2.2.0":
+  "integrity" "sha512-c+yPkNOPMFGNisYg9r4qvsMIjVYikJv7ImFOhPIVPt0+AcRUamZ7zkGRLHz7FKB0xrlZ+ddSOJsZv9XAFVXLmA=="
+  "resolved" "https://registry.npmjs.org/gh-pages/-/gh-pages-2.2.0.tgz"
+  "version" "2.2.0"
   dependencies:
     "async" "^2.6.1"
     "commander" "^2.18.0"
     "email-addresses" "^3.0.1"
     "filenamify-url" "^1.0.0"
-    "fs-extra" "^7.0.0"
+    "fs-extra" "^8.1.0"
     "globby" "^6.1.0"
-    "graceful-fs" "^4.1.11"
-    "rimraf" "^2.6.2"
 
 "glob-base@^0.3.0":
   "integrity" "sha1-27Fk9iIbHAscz4Kuoyi0l98Oo8Q="
@@ -4220,10 +4227,10 @@
     "pify" "^3.0.0"
     "slash" "^1.0.0"
 
-"graceful-fs@^4.1.11", "graceful-fs@^4.1.15", "graceful-fs@^4.1.2", "graceful-fs@^4.1.6":
-  "integrity" "sha512-6uHUhOPEBgQ24HM+r6b/QwWfZq+yiFcipKFrOFiBEnWdy5sdzYoi+pJeQaPI5qOLRFqWmAXUPQNsielzdLoecA=="
-  "resolved" "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.1.15.tgz"
-  "version" "4.1.15"
+"graceful-fs@^4.1.11", "graceful-fs@^4.1.15", "graceful-fs@^4.1.2", "graceful-fs@^4.1.6", "graceful-fs@^4.2.0":
+  "integrity" "sha512-nTnJ528pbqxYanhpDYsi4Rd8MAeaBA67+RZ10CM1m3bTAVFEDcd5AuA4a6W5YkGZ1iNXHzZz8T6TBKLeBuNriQ=="
+  "resolved" "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.6.tgz"
+  "version" "4.2.6"
 
 "growly@^1.3.0":
   "integrity" "sha1-8QdIy+dq+WS3yWyTxrzCivEgwIE="
